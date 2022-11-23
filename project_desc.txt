@@ -1,0 +1,5 @@
+contracts/ is where we’ll keep our NFT smart contract code
+scripts/ is where we’ll keep scripts to deploy and interact with our smart contract
+Smart contracts are written in a language called Solidity which is what we will use to write our MyNFT.sol smart contract.
+MyNFT.sol : NFT smart contract code, which we based on the OpenZeppelin library’s ERC-721 implementation.
+
